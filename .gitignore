@@ -73,3 +73,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.pdb
+*.lastbuildstate
+*.idb
+LPC/LPC.APS
+*.tlog
+ipch/lpc-3a527aee/lpc-831d41ab.ipch
+*.ilk
+LPC.opensdf
+LPC.sdf
+*.log
